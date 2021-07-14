@@ -8,7 +8,7 @@ dependencies:
   - jupyterlab=3
   - pandas
   - pyarrow
-  - openpyxl=2.6.0
+  - openpyxl=3.0.0
   - matplotlib
   - seaborn=0.11.0
   - ipywidgets=7.6.2
